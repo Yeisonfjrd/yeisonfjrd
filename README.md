@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="200" src="https://i.imgur.com/MKQzW4A.png" alt="Yeisonfjrd">
+  <img align="center" width="200" src="https://imgur.com/EuXQwRS.png" alt="Yeisonfjrd">
   <h3 align="center">Welcome to Yeison's Universe 🌌</h3>
 </p>
 
