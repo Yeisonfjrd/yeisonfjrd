@@ -1,5 +1,5 @@
 <p align="center" width="300">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/fGEvZ9c"  ><a href="//imgur.com/a/fGEvZ9c">User</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="[//imgur.com/a/fGEvZ9c](https://i.imgur.com/MKQzW4A.jpeg)"></a>
    <h3 align="center">¡Hi there 👋! I'm Yeison</h3>
 </p>
 
