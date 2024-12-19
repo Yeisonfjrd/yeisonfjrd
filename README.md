@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeison-fajardo/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="40px" height="30px" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="50px" height="50px" alt="LinkedIn"/>
   </a>
   <a href="https://yeisonfjrd.netlify.app/">
     <img src="https://user-images.githubusercontent.com/54821132/129295088-d8b1421a-2274-42a2-951c-3acc1d5807d6.png" width="28px" height="28px" alt="yesionfjrd"/>
