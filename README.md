@@ -1,5 +1,5 @@
 <p align="center" width="300">
-<a href="[[//imgur.com/a/fGEvZ9c](https://i.imgur.com/MKQzW4A.jpeg)](https://imgur.com/MKQzW4A)"></a>
+![Yeisonfjrd] (https://i.imgur.com/MKQzW4A.png)
    <h3 align="center">¡Hi there 👋! I'm Yeison</h3>
 </p>
 
