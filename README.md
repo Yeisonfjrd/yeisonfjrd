@@ -1,5 +1,5 @@
 <p align="center" width="300">
-![Yeisonfjrd] (https://i.imgur.com/MKQzW4A.png)
+![Yeisonfjrd](https://i.imgur.com/MKQzW4A.png)
    <h3 align="center">¡Hi there 👋! I'm Yeison</h3>
 </p>
 
