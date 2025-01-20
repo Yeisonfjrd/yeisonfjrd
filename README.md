@@ -6,8 +6,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h2>🌟 Let's Connect</h2>
   <a href="https://www.linkedin.com/in/yeison-fajardo/" target="_blank">
@@ -18,8 +16,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <h2>✨ About Me</h2>
   <p>
@@ -27,9 +23,6 @@
     🌱 Currently mastering advanced <strong>TypeScript</strong> and <strong>Next.js</strong> frameworks.<br>
     🚀 My mission is to build intelligent systems and seamless web experiences.<br>
   </p>
-</div>
-
----
 
 <div align="center">
   <h2>🚀 My Tech Stack</h2>
@@ -43,12 +36,9 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h2>📈 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yeisonfjrd&show_icons=true&theme=radical" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeisonfjrd&layout=compact&theme=radical" alt="Top Languages">
   </p>
 </div>
