@@ -19,11 +19,10 @@
 <div align="center">
   <h2>✨ About Me</h2>
   <p>
-    👨‍💻 A passionate developer specializing in <strong>AI</strong>, <strong>Frontend</strong>, and <strong>Backend Development</strong>.<br>
+    👨‍💻 A passionate developer specializing in <strong>AI</strong> and <strong>Backend Development</strong>.<br>
     🌱 Currently mastering advanced <strong>TypeScript</strong> and <strong>Next.js</strong> frameworks.<br>
     🚀 My mission is to build intelligent systems and seamless web experiences.<br>
   </p>
-</div>
 
 <div align="center">
   <h2>🚀 My Tech Stack</h2>
